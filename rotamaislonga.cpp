@@ -1,6 +1,11 @@
 // rotamaislonga.cpp : Este arquivo contém a função 'main'. A execução do programa começa e termina ali.
 //
 
+//Encontre a rota mais longa possível em uma matriz
+//Dado um caminho retangular na forma de uma matriz binária, encontre o comprimento da rota mais 
+//longa possível da origem ao destino movendo - se apenas para posições adjacentes diferentes de zero,
+// ou seja, podemos formar a rota a partir de posições com valor igual a 1. 
+//Nota não deve haver nenhum ciclo no caminho de saída.
 
 #include <iostream>
 #include <vector>
